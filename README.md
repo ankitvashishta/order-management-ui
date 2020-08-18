@@ -1,8 +1,6 @@
 ## Available Scripts
 
-In the project directory, you can run: `npm install`
-
-Downloads the dependencies.
+In the project directory, you can run: `npm install` - Downloads the dependencies.
 
 ### `npm start`
 
